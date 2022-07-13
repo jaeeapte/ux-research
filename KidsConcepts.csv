@@ -1,0 +1,61 @@
+id,outcome,importance,satisfaction
+P01,Concept 1 - Automate Putting Kids to Bed at Night,5,2
+P02,Concept 1 - Automate Putting Kids to Bed at Night,5,7
+P03,Concept 1 - Automate Putting Kids to Bed at Night,10,6
+P04,Concept 1 - Automate Putting Kids to Bed at Night,8,3
+P05,Concept 1 - Automate Putting Kids to Bed at Night,8,7
+P06,Concept 1 - Automate Putting Kids to Bed at Night,7,5
+P07,Concept 1 - Automate Putting Kids to Bed at Night,10,1
+P08,Concept 1 - Automate Putting Kids to Bed at Night,3,8
+P09,Concept 1 - Automate Putting Kids to Bed at Night,5,2
+P10,Concept 1 - Automate Putting Kids to Bed at Night,5,9
+P01,Concept 2 - Streamline Kids Teeth Brushing ,10,6
+P02,Concept 2 - Streamline Kids Teeth Brushing ,3,8
+P03,Concept 2 - Streamline Kids Teeth Brushing ,8,1
+P04,Concept 2 - Streamline Kids Teeth Brushing ,9,6
+P05,Concept 2 - Streamline Kids Teeth Brushing ,9,5
+P06,Concept 2 - Streamline Kids Teeth Brushing ,9,8
+P07,Concept 2 - Streamline Kids Teeth Brushing ,9,6
+P08,Concept 2 - Streamline Kids Teeth Brushing ,10,7
+P09,Concept 2 - Streamline Kids Teeth Brushing ,2,9
+P10,Concept 2 - Streamline Kids Teeth Brushing ,3,7
+P01,Concept 3 - Provide with a Healthy Weekly Lunch Menu that Kids will Love,7,7
+P02,Concept 3 - Provide with a Healthy Weekly Lunch Menu that Kids will Love,7,2
+P03,Concept 3 - Provide with a Healthy Weekly Lunch Menu that Kids will Love,7,7
+P04,Concept 3 - Provide with a Healthy Weekly Lunch Menu that Kids will Love,5,3
+P05,Concept 3 - Provide with a Healthy Weekly Lunch Menu that Kids will Love,8,8
+P06,Concept 3 - Provide with a Healthy Weekly Lunch Menu that Kids will Love,7,7
+P07,Concept 3 - Provide with a Healthy Weekly Lunch Menu that Kids will Love,6,8
+P08,Concept 3 - Provide with a Healthy Weekly Lunch Menu that Kids will Love,8,10
+P09,Concept 3 - Provide with a Healthy Weekly Lunch Menu that Kids will Love,8,2
+P10,Concept 3 - Provide with a Healthy Weekly Lunch Menu that Kids will Love,10,7
+P01,Concept 4 - Generate Automated Suggestions to Keep Kids Engaged while Parents are in Meetings,9,5
+P02,Concept 4 - Generate Automated Suggestions to Keep Kids Engaged while Parents are in Meetings,6,7
+P03,Concept 4 - Generate Automated Suggestions to Keep Kids Engaged while Parents are in Meetings,10,2
+P04,Concept 4 - Generate Automated Suggestions to Keep Kids Engaged while Parents are in Meetings,9,6
+P05,Concept 4 - Generate Automated Suggestions to Keep Kids Engaged while Parents are in Meetings,10,6
+P06,Concept 4 - Generate Automated Suggestions to Keep Kids Engaged while Parents are in Meetings,9,8
+P07,Concept 4 - Generate Automated Suggestions to Keep Kids Engaged while Parents are in Meetings,7,9
+P08,Concept 4 - Generate Automated Suggestions to Keep Kids Engaged while Parents are in Meetings,10,1
+P09,Concept 4 - Generate Automated Suggestions to Keep Kids Engaged while Parents are in Meetings,5,2
+P10,Concept 4 - Generate Automated Suggestions to Keep Kids Engaged while Parents are in Meetings,10,10
+P01,Concept 5 - Launch a Safety Alarm Everytime Kids do something Risky,10,5
+P02,Concept 5 - Launch a Safety Alarm Everytime Kids do something Risky,5,4
+P03,Concept 5 - Launch a Safety Alarm Everytime Kids do something Risky,4,8
+P04,Concept 5 - Launch a Safety Alarm Everytime Kids do something Risky,7,7
+P05,Concept 5 - Launch a Safety Alarm Everytime Kids do something Risky,9,6
+P06,Concept 5 - Launch a Safety Alarm Everytime Kids do something Risky,9,8
+P07,Concept 5 - Launch a Safety Alarm Everytime Kids do something Risky,10,4
+P08,Concept 5 - Launch a Safety Alarm Everytime Kids do something Risky,6,6
+P09,Concept 5 - Launch a Safety Alarm Everytime Kids do something Risky,4,9
+P10,Concept 5 - Launch a Safety Alarm Everytime Kids do something Risky,7,4
+P01,Concept 6 - Document Kids Precious Moments During the Day and Share with Spouse ,7,4
+P02,Concept 6 - Document Kids Precious Moments During the Day and Share with Spouse ,4,6
+P03,Concept 6 - Document Kids Precious Moments During the Day and Share with Spouse ,4,5
+P04,Concept 6 - Document Kids Precious Moments During the Day and Share with Spouse ,8,5
+P05,Concept 6 - Document Kids Precious Moments During the Day and Share with Spouse ,8,5
+P06,Concept 6 - Document Kids Precious Moments During the Day and Share with Spouse ,4,4
+P07,Concept 6 - Document Kids Precious Moments During the Day and Share with Spouse ,7,2
+P08,Concept 6 - Document Kids Precious Moments During the Day and Share with Spouse ,8,1
+P09,Concept 6 - Document Kids Precious Moments During the Day and Share with Spouse ,8,5
+P10,Concept 6 - Document Kids Precious Moments During the Day and Share with Spouse ,3,5
