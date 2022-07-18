@@ -1,2 +1,2 @@
-# OppScore_ColorCoded
-Generates the opportunity score plot and color codes every concept with a different color.
+# UX Research Materials and scripts
+This Repo contains any materials or scripts used for optimizing UX research studies
