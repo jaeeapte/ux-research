@@ -26,7 +26,7 @@ num_of_concepts <- 6
 opp_landscape_title <- "Opportunity Landscape: Kids Concepts from Parents' Point of View"
 
 # File and column names:
-filename <- "KidsConcepts.csv"
+filename <- "/mnt/data/ux-research/data-exploration-cvt-data/dsp-combined-results.csv"
 outcomeName <- "outcome"
 impName <- "importance"
 satName <- "satisfaction"
